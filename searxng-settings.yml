@@ -1,0 +1,13 @@
+# searxng-settings.yml
+
+server:
+  # no secret_key needed for local-only
+  limiter: false     # turn off rate limiting while testing locally
+
+search:
+  formats:
+    - html
+    - json          # allow JSON responses
+
+ui:
+  static_use_hash: true

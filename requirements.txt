@@ -1,0 +1,16 @@
+onnxruntime
+numpy
+sounddevice
+levenshtein
+loguru
+jinja2
+requests
+textual
+pyyaml
+pandas
+pymupdf
+torch
+spacy
+bs4
+newspaper3k
+"lxml[html_clean]"
